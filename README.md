@@ -1,4 +1,4 @@
-### Hi there 👋
+### MrkarlosM
 
 <!--
 **MrkarlosM/MrkarlosM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hello, I'm Carlos, currently working in Microverse courses. Also looking for opportunities as remote software developer.
